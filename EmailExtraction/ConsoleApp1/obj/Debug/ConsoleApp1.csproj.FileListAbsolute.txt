@@ -1,0 +1,7 @@
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Corndel\Bootcamp\Regex\EmailExtraction\EmailExtraction\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
